@@ -1,2 +1,2 @@
 # JEIpager
-A mod for minecraft that outputs a html file based on the 
+A mod for minecraft that outputs a html file based on the ingame recipes just like JEI
