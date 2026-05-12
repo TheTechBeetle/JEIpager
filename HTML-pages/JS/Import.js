@@ -24,3 +24,4 @@ function importhtml(){
     });
     document.body.appendChild(para);
 }
+window.importhtml = importhtml;
